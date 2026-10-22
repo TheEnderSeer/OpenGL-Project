@@ -1,0 +1,12 @@
+﻿  SceneManager.cpp
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(445,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(445,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(445,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(475,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(475,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(475,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(501,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(501,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(501,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\ethan\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
